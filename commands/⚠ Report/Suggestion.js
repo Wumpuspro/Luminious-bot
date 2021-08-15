@@ -11,7 +11,7 @@ if(!args[0])
   return;
 }
 let args1 = args.join(' ');
-const channel = client.channels.cache.get("832304805506187274")
+const channel = client.channels.cache.get("872467449990217790")
 const embed = new MessageEmbed()
 .setDescription(`**Suggest Reported**\n Reporter : <@!${message.member.id}>\n Suggestion : ${args1}\n GUild : ${message.guild.name}`)
 channel.send(embed)
