@@ -23,8 +23,8 @@ embed: {
       prize: ":warning: You didnt indicate prize",
       good: ":tada: I launched the giveaway in this channel :",
 
-      giveaway: "**GIVEAWAY** 🎁",
-      giveawayEnded: "**GIVEAWAY FINISHED** 🎁",
+      giveaway: " <a:EVR_Giveaway_1:876461141038080010> **GIVEAWAY** <a:EVR_Giveaway_1:876461141038080010>",
+      giveawayEnded: "** <a:EVR_Giveaway_1:876461141038080010> GIVEAWAY FINISHED** <a:EVR_Giveaway_1:876461141038080010>",
 
       timeRemaining: "Remaining time : **{duration}** !", 
       inviteToParticipate: (message) => `Click on ${config.reaction} to participate !`,
