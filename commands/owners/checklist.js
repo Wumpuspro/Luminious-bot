@@ -15,7 +15,7 @@ var requestOptions = {
 };
 let embed = new Discord.MessageEmbed()
 .setDescription("Breh Testing")
-fetch("https://api.voidbots.net/bot/analytics/828959241586606110", requestOptions) // Check the table above for url
+fetch("https://api.voidbots.net/bot/analytics/${clientid}", requestOptions) // Check the table above for url
   .then(response => response.text())
   .then(console.log)
     }
