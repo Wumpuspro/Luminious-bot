@@ -137,7 +137,7 @@ module.exports = {
         connection.voice.setSelfDeaf(true);
          
          
-        const member1 = "828959241586606110";
+        const member1 = "852219497763045398";
       
     } catch (error) {
         console.error(`I could not join the voice channel`);
