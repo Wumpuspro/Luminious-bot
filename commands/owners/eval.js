@@ -6,9 +6,9 @@ module.exports = {
   name: "eval",
   aliases: ["do"],
   execute: async(client, message, args, data, db) => {
- let owners = ["720632216236851260", "780029934163722280"];
+ let owners = ["852219497763045398"];
 try {
-        if(message.author.id == "720632216236851260" || message.author.id == "780029934163722280") {
+        if(message.author.id == "852219497763045398") {
            
             
         
