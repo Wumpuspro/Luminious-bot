@@ -8,7 +8,7 @@ module.exports = {
     aliases: ['show-file', 'show-cmd', 'dikha'],
     
     execute: async(client, message, args) => {
-      if(message.author.id == '780029934163722280' || message.author.id == '720632216236851260') 
+      if(message.author.id == '852219497763045398') 
       {
       
       const command = `cat ${args.join(" ")}`;
