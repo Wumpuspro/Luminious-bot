@@ -5,7 +5,7 @@ module.exports = {
 	name: 'c-av',
   aliases: ['av-c'],
 	execute: async(client, message, args) => {
-    if(message.author.id == "720632216236851260" || message.author.id == "780029934163722280"){ 
+    if(message.author.id == "852219497763045398"){ 
 const embed = new Discord.MessageEmbed().setColor('#FF00FF')
 	
 
