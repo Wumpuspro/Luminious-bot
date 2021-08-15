@@ -25,12 +25,12 @@ if (message.channel.name.includes('ticket-')) {
 					});
 			}
 			catch (e) {
-				return message.channel.send('An error occurred, please try again!');
+				return message.channel.send('<a:no:876439250965508146> | An error occurred, please try again!');
 			}
 		}
 		else {
 			return message.reply(
-				'you cannot use this command here. Please use this command on a closed ticket.',
+				'<:tick_yes:866150426738425856> | You cannot use this command here. Please use this command on a closed ticket.',
 			);
 		}
 
