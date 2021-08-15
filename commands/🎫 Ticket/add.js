@@ -27,7 +27,7 @@ if(message.channel.name.includes('ticket-')) {
 				});
 			}
 			catch(e) {
-				return message.channel.send('An error occurred, please try again!');
+				return message.channel.send('<a:no:876439250965508146> | An error occurred, please try again!');
 			}
 		}
 
