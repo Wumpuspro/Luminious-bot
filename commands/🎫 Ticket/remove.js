@@ -40,5 +40,5 @@ module.exports.help = {
     name: "remove",
     description: "Remove a person from a ticket",
     usage: "remove <mention/user_dev_ID>",
-    type: "Ticket"  
+    type: "🎟️ Ticket"  
 }
