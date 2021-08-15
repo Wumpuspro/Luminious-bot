@@ -17,7 +17,7 @@ module.exports = {
 if(message.channel.name.includes('ticket-')) {
 			const member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.guild.members.cache.find(x => x.user.username === args.slice(0).join(' ') || x.user.username === args[0]);
 			if(!member) {
-				return message.channel.send(`Incorrect Usage! Correct Usage:${prefix}remove <member>`);
+				return message.channel.send(`<a:no:876439250965508146> | Incorrect Usage! Correct Usage:${prefix}remove <member>`);
 			}
 			try{
 				message.channel.updateOverwrite(member.user, {
@@ -26,11 +26,11 @@ if(message.channel.name.includes('ticket-')) {
 					ATTACH_FILES: false,
 					READ_MESSAGE_HISTORY: false,
 				}).then(() => {
-					message.channel.send(`Successfully removed ${member} from ${message.channel}`);
+					message.channel.send(`<:tick_yes:866150426738425856> | Successfully removed ${member} from ${message.channel}`);
 				});
 			}
 			catch(e) {
-				return message.channel.send('An error occurred, please try again!');
+				return message.channel.send('<a:no:876439250965508146> | An error occurred, please try again!');
 			}
 		}
 
