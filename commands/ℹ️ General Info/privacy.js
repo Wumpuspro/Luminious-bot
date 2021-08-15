@@ -6,7 +6,7 @@ const Discord = require("discord.js");
   aliases: ["policy"],
   execute: async(client, message, args, data, db) => {
 
-message.channel.send("Dumb Bot's Privacy Policy\n We do not store any data apart from the Commands Database and if the User Contact us from anywhere his data will be cleared, we do not store any type of personal data. We Follow all Discord's Terms of Service and Community Guidelines.")
+message.channel.send("Luminious bot Privacy Policy\n We do not store any data apart from the Commands Database and if the User Contact us from anywhere his data will be cleared, we do not store any type of personal data. We Follow all Discord's Terms of Service and Community Guidelines.")
 
   }
             }
