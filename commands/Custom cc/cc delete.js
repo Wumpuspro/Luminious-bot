@@ -12,20 +12,20 @@ module.exports = {
         if(!name) 
         {
                 var errembed = new Discord.MessageEmbed()
-    .setDescription("<a:testfail:841362226149064755> **Failed** <a:testfail:841362226149064755>")
+    .setDescription("<a:no:876439250965508146> **Failed** <a:no:876439250965508146>")
     .addField("Error:", `You Didnt Gave me a Name of Your Custom Command To Delete`)
      return message.channel.send(errembed)
         }
         let todel = db.fetch(`${args[0]}_${message.guild.id}`)
         if(!todel){
                 var errembed = new Discord.MessageEmbed()
-    .setDescription("<a:testfail:841362226149064755> **Failed** <a:testfail:841362226149064755>")
+    .setDescription("<a:no:876439250965508146> **Failed** <a:no:876439250965508146>")
     .addField("Error:", `That Command Didnt Exist`)
      return message.channel.send(errembed)
         }
              
         const aembed = new Discord.MessageEmbed()
-   .setDescription("<a:testing:841362113212842045> **Successfull** <a:testing:841362113212842045>")
+   .setDescription("<:tick_yes:866150426738425856> **Successfull** <:tick_yes:866150426738425856>")
    .addField("Custom Command Name to Delete:", name)
    .addField("Custom Command Reply/Response to Delete:", todel)
    message.channel.send(aembed);
