@@ -9,7 +9,7 @@ module.exports = {
         if(!time) {
           var embed = new MessageEmbed()
    
-        .setDescription("<a:testfail:841362226149064755> **Wrong Usage** <a:testfail:841362226149064755> \n What is the time when the reminder should be off? ")
+        .setDescription("<a:no:876439250965508146> **Wrong Usage** <a:no:876439250965508146> \n What is the time when the reminder should be off? ")
         .setColor("RANDOM")
         return message.channel.send(embed);
         }
@@ -17,7 +17,7 @@ module.exports = {
 
          var embed = new MessageEmbed()
            
-         .setDescription(`<a:testfail:841362226149064755> **Wrong Usage** <a:testfail:841362226149064755> \n ${message.author.tag} You cannot set your reminder for more than 1w`)
+         .setDescription(`<a:no:876439250965508146> **Wrong Usage** <a:no:876439250965508146> \n ${message.author.tag} You cannot set your reminder for more than 1w`)
           .setColor("RANDOM")
          return message.channel.send(embed);
         }
@@ -25,13 +25,13 @@ module.exports = {
         if(!alert) {
           var embed = new MessageEmbed()
             
-         .setDescription(`<a:testfail:841362226149064755> **Wrong Usage** <a:testfail:841362226149064755> \n What is reminder for?`)
+         .setDescription(`<a:no:876439250965508146> **Wrong Usage** <a:no:876439250965508146>\n What is reminder for?`)
           .setColor("RANDOM")
          return message.channel.send(embed);
           
         }
        var embed = new MessageEmbed()
-         .setDescription(`<a:testing:841362113212842045> **Successfull** <a:testing:841362113212842045>`)   
+         .setDescription(`<a:no:876439250965508146> **Successfull** <a:no:876439250965508146>`)   
         .setColor("RANDOM")
         .addField(`Time:`, `\`${time}\``, true)
         .addField(`For:`, `\`${alert}\``, true)
