@@ -1,4 +1,4 @@
-# Adequate bot
+# Luminious bot
 
 [![](https://github.com/Wumpuspro/Scam-alert-bot/blob/main/.assests/npg.jpg)](https://discord.gg/UA6sSqKXpZ)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
