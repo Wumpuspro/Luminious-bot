@@ -65,5 +65,5 @@ module.exports.help = {
     name: "close",
     description: "It will close the ticket ticket",
     usage: "close",
-    type: "Ticket"  
+    type: "🎟️ Ticket"  
 }
