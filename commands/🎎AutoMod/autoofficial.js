@@ -9,7 +9,7 @@ module.exports = {
      }
 if(!args[0])
 {
-  return message.reply("You didnt Giv me role or nickname to set\n example - .anr role @Officials or .anr name RYΠΣX丶");
+  return message.reply("You didnt Giv me role or nickname to set\n example - .anr role @Officials or .anr name NPG丶");
 }
 if(args[0] == "role")
 {
