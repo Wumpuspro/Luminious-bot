@@ -27,5 +27,5 @@ module.exports.help = {
     name: "delete",
     description: "It will forcely delete the ticket channel",
     usage: "delete",
-    type: "Ticket"  
+    type: "🎟️ Ticket"  
 }
