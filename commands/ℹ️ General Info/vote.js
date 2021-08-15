@@ -7,7 +7,7 @@ const Discord = require("discord.js");
   execute: async(client, message, args, data, db) => {
 
            const embed= new Discord.MessageEmbed()
-           .addField(`Vote us Here -`, `[Click Here](https://discordbotlist.com/bots/dumb-bot/upvote)  [Void Bots](https://voidbots.net/bot/828959241586606110/vote)`)
+           .addField(`Vote us Here -`, `[Click Here](https://discordbotlist.com/bots/luminiousbot/upvote)  [Void Bots](https://voidbots.net/bot/${clientid}/vote)`)
           message.channel.send(embed)
         }
             }
