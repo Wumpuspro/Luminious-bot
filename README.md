@@ -6,9 +6,13 @@
 
 
 https://discord.gg/GjfHmXAYTn for all emoji access
+
+
+
+
 https://replit.com/@npgop1/Luminious-bot#README.md  repl codes if you are lazy to fork this but remember give me credits
 
-> This bot is used by more than 90k Discord users and more than 400 servers.
+> This bot is used by more than 120k Discord users and more than 400 servers.
 
 Luminious is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Wumpuspro](https://github.com/Wumpuspro).  
 Feel free to add a star ⭐ to the repository to promote the project!
