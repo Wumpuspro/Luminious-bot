@@ -51,7 +51,6 @@ client.on('ready', () => {
         `${client.users.cache.size} users`,//change this with your status
         `.help for my help!`,//change this with your status
         `${client.guilds.cache.size} Servers!!`,
-        `https://www.dumb-dsc.tk/`,
         `waiting for verification ☹️`,
         `${db.fetch(`status`)}`
     ];
@@ -60,7 +59,6 @@ client.on('ready', () => {
         `${client.users.cache.size} users`,//change this with your status
         `.help for my help!`,//change this with your status
         `${client.guilds.cache.size} Servers!!`,
-        `https://www.dumb-dsc.tk/`,
         `waiting for verification ☹️`,
         `${db.fetch(`status`)}`
     ];
