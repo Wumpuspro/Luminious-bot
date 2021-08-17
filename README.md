@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/Blazerop)
 
 
-https://discord.gg/cPkauqa5 for all emoji access
+https://discord.gg/YKcXccaQQY for all emoji access
 
 
 
