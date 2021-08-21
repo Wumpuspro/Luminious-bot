@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "author": "Npg",
-  "main": "node xp.js",
+  "main": "xp.js",
   "scripts": {
-    "test": "node xp.js",
     "start": "node xp.js"
   },
   "dependencies": {
