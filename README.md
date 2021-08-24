@@ -119,3 +119,23 @@ If you wish to contribute to the Adequate codebase , feel free to fork the repos
 ## License
 
 Luminious is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+
+
+# Mongodb
+U need mongo db database [Click here for Mongodb database](https://mongodb.com)
+# Important Installation
+After Downloading Project in Console Type `npm install` 
+![terminal](https://user-images.githubusercontent.com/86592522/130573800-f9db954a-d8e2-460e-b448-af69f2d82005.png)
+# Starting the Bot
+After Installing The Packages in console Type `node xp.js`
+![terminal](https://user-images.githubusercontent.com/86592522/130573920-7f104ec4-f93a-40bb-a88f-4e62b01ba985.png)
+# Result
+If the Console Shows Port is running on <anything> And Logged in as < Your Bot name>
+**If Your Console Shows Anything from up then Your Bot is ready and you can use it**
+# Error
+if It shows any error Contact us on our [Discord Server](https://discord.gg/FeaeWWXX9g)
+# Slash-Commands Installation
+ If you want to register your bot's Slash-commands then go on config.js and in registercommands Remove false and write true there.
+    This is not tested Yet so if you get Any error in that use Gui which is made by my one of Favourites "Androz" Website - https://slash-commands-gui.netlify.app/
+
+
