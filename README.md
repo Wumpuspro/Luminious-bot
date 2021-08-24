@@ -117,14 +117,7 @@ mainprefix: "",  // Again Your Prefix
 ```
 
 
-# About owner
 
-### Hi there 👋
-
-<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-1/852219497763045398.png"> </div>
-<br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Wumpuspro&theme=dracula"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wumpuspro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wumpuspro&theme=tokyonight&hide=batchfile"> <br>  <div align = "center"> <html> Discord Username = Npg#0001/ Discord id = 852219497763045398 </html> <p>
 
 
 
@@ -183,4 +176,11 @@ if It shows any error Contact us on our [Discord Server](https://discord.gg/Feae
  If you want to register your bot's Slash-commands then go on config.js and in registercommands Remove false and write true there.
     This is not tested Yet so if you get Any error in that use Gui which is made by my one of Favourites "Androz" Website - https://slash-commands-gui.netlify.app/
 
+# About owner
 
+### Hi there 👋
+
+<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-1/852219497763045398.png"> </div>
+<br>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Wumpuspro&theme=dracula"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wumpuspro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wumpuspro&theme=tokyonight&hide=batchfile"> <br>  <div align = "center"> <html> Discord Username = Npg#0001/ Discord id = 852219497763045398 </html> <p>
