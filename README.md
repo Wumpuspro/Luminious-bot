@@ -17,7 +17,37 @@ https://replit.com/@npgop1/Luminious-bot#README.md  repl codes if you are lazy t
 Luminious is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Wumpuspro](https://github.com/Wumpuspro).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
-
+## Luminious Bot Source Code
+Luminious Bot is A MultiPurpose Discord Bot with 214 Commands And 85% Of Database is Based on quick.db
+I am Wishing That Adamjr Will see this so please star it  [@adamjr](https://github.com/theADAMJR)
+## Features 
+This bot Also Supports Many Slash-Commands
+This Bot Supports :
+Giveaways 
+Ticket System
+Music 
+Reaction Roles
+Custom Commands
+Auto Mod
+Leveling
+Much More!!
+# Original Bot
+The Original Bot is Dumb Bot and For testing You can invite That bot from here - [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=876833810715648021&permissions=8&scope=bot%20applications.commands)
+## Support 
+Tested Ones :
+This Bot Project Can Run on Windows , Glitch.com, Replit.com
+UnTested Ones:
+Maybe Ubuntu
+## Size 
+This Project Size is 400mb (Counted With Database)
+## Help
+You can Join Our Support Server - [Support Server](https://discord.gg/UA6sSqKXpZ)
+## Installation
+# Installing
+# Self Hosting
+**First of all do git clone https://github.com/Wumpuspro/Luminious-bot.git in console or Download Project from here - [Download From Here](https://github.com/Wumpuspro/Luminious-bot/archive/refs/heads/master.zip)**
+# Hosting Service
+**If you are using Hosting Service like Replit.com or glitch.com In there Go on New Project And in That go on Imprort From Github And Paste This - `https://github.com/Wumpuspro/Luminious-bot.git`**
 # Filling Config Files
 Fill the config.js and utils/gw-config.json With Your Credentials
 # Config.js
