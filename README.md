@@ -28,7 +28,7 @@ module.exports = {
     "imageapi": "", //Your Amethyste Api You can get it from https://api.amethyste.moe/
     "ownerID": [], //Your Discord User ID
 "prefix": "", //Your Bot's Prefix
-"mongourl": "", // Mongodb url You can see tutorial of it on https://www.youtube.com/watch?v=nj-lJfkgb6w
+"mongourl": "", // Mongodb url 
 "secret": "", // Your super secret bot token You can get it from the section of Oauth2 of Discord Developer Portal named Client Secret
  "dashboardURL": "", // write https://localhost:3000 if you are hosting in your own pc/laptop and if using website hosting then connect domain and just write that website copy paste in here or enter ip of that hosting server with the port ahead of it
 "chat": {
