@@ -384,11 +384,11 @@ if(config.registercommands === true) {
 async function registerSlashCommands(dir) {;
     fs.readdir(path.join(__dirname, dir), async (err, files) => {
         if(err){
-            return console.log(chalk.red('An error occured when checking the commands folder for commands to load: ' + err));
+            return console.log(chalk.red('An error occurred when checking the commands folder for commands to load: ' + err));
         };
         files.forEach(async (file) => {
             fs.stat(path.join(__dirname, dir, file), (err, stat) => {
-                if(err) return console.log(chalk.red('An error occured when checking the commands folder for commands to load: ' + err));
+                if(err) return console.log(chalk.red('An error occurred when checking the commands folder for commands to load: ' + err));
                 if(stat.isDirectory()) {
                     registerSlashCommands(path.join(dir, file));
                 } else {
